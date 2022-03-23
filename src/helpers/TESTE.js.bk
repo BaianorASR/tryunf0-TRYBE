@@ -1,0 +1,164 @@
+/* eslint-disable sonarjs/no-duplicate-string */
+/* eslint-disable max-len */
+export default [
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a010afbfdc6',
+    cardName: 'Patroa Ningguang',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'muito raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a010afbfccc',
+    cardName: 'java bolado',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'muito raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5aploafbfdc6',
+    cardName: 'java',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'normal',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a010afbf000',
+    cardName: 'python',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'muito raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a990afbfdc6',
+    cardName: 'javascript',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a010afbfgt6',
+    cardName: 'trybe',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'normal',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a010afcfdc6',
+    cardName: 'acerola',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94s1-5a010afbfdc6',
+    cardName: 'brasil',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'muito raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a010ajbfdc6',
+    cardName: 'teste',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'muito raro',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+  {
+    savedList: [],
+    id: 'd4ad7cca-dad3-4fde-94a1-5a01aafbfdc6',
+    cardName: 'BAIANOR',
+    cardDescription:
+      'Deus da Pedrada, quem precisa de reação se tudo pode ser resolvido na base da pedrada?',
+    cardAttr1: '90',
+    cardAttr2: '54',
+    cardAttr3: '45',
+    cardImage:
+      'https://www.oficinadanet.com.br/imagens/post/39338/capa-genshin-impact-2-4-arte-de-ningguang-skin-e-vazada-final.jpg',
+    cardRare: 'normal',
+    cardTrunfo: true,
+    isSaveButtonDisabled: false,
+    hasTrunfo: false,
+  },
+];

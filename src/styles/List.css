@@ -1,0 +1,21 @@
+.list-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.Nav {
+  background-color: rgb(46, 52, 64);
+  color: rgb(216, 222, 233);
+  display: flex;
+  justify-content: space-around;
+  padding: 32px;
+  width: 100%;
+}
+
+.cards-list {
+  display: flex;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  min-height: 900px;
+  width: 100vw;
+}
